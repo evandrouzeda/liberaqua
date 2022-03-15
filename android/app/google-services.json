@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "689767465655",
+    "project_id": "liberaqua-84cc0",
+    "storage_bucket": "liberaqua-84cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689767465655:android:1e471cf7c4cb1fb23bc332",
+        "android_client_info": {
+          "package_name": "com.evandrouzeda.liberaqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689767465655-1lfd33eoljh9kvqqum4a7s69sujqd630.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYK2m-9gS2BYUQy1ZjBPKSyT_N3eM7Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689767465655-1lfd33eoljh9kvqqum4a7s69sujqd630.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689767465655:android:130fdac049fd61e83bc332",
+        "android_client_info": {
+          "package_name": "com.example.liberaqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689767465655-nnvpi0ngubufgjahejec2938nnmgg3lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liberaqua",
+            "certificate_hash": "83cc7e4f6aa50a343d11b1c4b93122968864442b"
+          }
+        },
+        {
+          "client_id": "689767465655-1lfd33eoljh9kvqqum4a7s69sujqd630.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYK2m-9gS2BYUQy1ZjBPKSyT_N3eM7Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689767465655-1lfd33eoljh9kvqqum4a7s69sujqd630.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
